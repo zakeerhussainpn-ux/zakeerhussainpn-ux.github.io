@@ -437,3 +437,4 @@ lacunads.com, LCb555b3bc8667a09a, RESELLER
 rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
 pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
 appnexus.com, 17779, RESELLER
+xandr.com, 17779, RESELLER
